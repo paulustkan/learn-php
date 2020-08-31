@@ -1,0 +1,1 @@
+## PHP supports ten primitive types
